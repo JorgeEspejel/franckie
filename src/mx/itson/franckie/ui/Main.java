@@ -40,6 +40,9 @@ public class Main {
        ingrediente5.setNombre("3 cucharadas de agua");
        
            
+       // esper los hayam piuesto 
+       
+       
        Ingredientes.add(ingresiente1);
          Ingredientes.add(ingresiente2);
          receta.setIngredietes(ingredietes);
